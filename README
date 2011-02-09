@@ -1,3 +1,1 @@
-The page at http://localhost:8080/mobile should have the following DOCTYPE:
-
-&lt;!DOCTYPE html PUBLIC &quot;-//WAPFORUM//DTD XHTML Mobile 1.0//EN&quot; &quot;http://www.wapforum.org/DTD/xhtml-mobile10.dtd&quot;&gt;
+The page at http://localhost:8080/mobile should have a custom DOCTYPE.
